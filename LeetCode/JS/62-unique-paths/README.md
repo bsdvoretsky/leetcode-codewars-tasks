@@ -1,5 +1,4 @@
 # 62. Unique Paths
-<span style="color:rgb(239, 108, 0)">Medium</span>
 
 https://leetcode.com/problems/unique-paths/
 
